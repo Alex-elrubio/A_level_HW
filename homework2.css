@@ -1,0 +1,63 @@
+body {
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: red;
+}
+
+.class-list {
+    color: green;
+}
+
+a[href^="https"] {
+    color: #f00;
+}
+
+.list > li:last-child {
+    background-color: green;
+}
+
+ul + p {
+    font-size: 26px;
+}
+
+paint-me {
+    color: pink;
+}
+
+#id-graycol {
+    color: grey;
+}
+
+div p {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+a[href^="https"] {
+    color:#f00;
+}
+
+.list > li:last-child {
+    background-color:green;
+}
+
+
+ul + p {
+    font-size:26px;
+}
+
+.bg-box {
+    min-height: 800px;
+    background: url(../HW2/img/lamp-png-0.png) repeat-x center top / 40px 70px, url(../HW2/img/pole-zelen-trava-dom-derevya.jpg) no-repeat center center / auto, url(../HW2/img/grass-png-images-pictures-transparent-28.png) repeat-x bottom center / auto 300px, url(../HW2/img/jiogik.png) repeat-y left / 30px 30px, url(../HW2/img/58eb07b830eab15b56162788.png) repeat-y right / 30px 30px;
+    background-color:green;
+}
